@@ -77,7 +77,7 @@ PrintTo[5]                                     (* 0 1 2 3 4 *)
 (* While 循环 *)
 x = 0; While[x < 2, (Print@x; x++)]     (* 带测试和程序体的 while 循环 *)
 
-(* 如果 和 条件 *)
+(* If 和 条件 *)
 x = 8; If[x==8, Print@"Yes", Print@"No"]   (* 条件，返回真的情况下，否则 *)
 Switch[x, 2, Print@"Two", 8, Print@"Yes"]  (* 值匹配风格切换 *)
 Which[x==2, Print@"No", x==8, Print@"Yes"] (* Elif风格切换 *)
