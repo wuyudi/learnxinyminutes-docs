@@ -4,7 +4,7 @@ contributors:
   - ["hyphz", "http://github.com/hyphz/"]
 translators:
   - ["wuyudi", "http://github.com/wuyudi/"]
-filename: learnwolfram.nb
+filename: learnwolfram-cn.nb
 lang: zh-cn
 ---
 
